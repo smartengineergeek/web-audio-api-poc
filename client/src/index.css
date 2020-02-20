@@ -36,3 +36,21 @@ footer {
   color: #fff;
   text-align: center;
 }
+#peaks-container{
+  width: 50%;
+}
+.app-container{
+  display: flex;
+  margin: 50px 10px;
+  padding: 10px;
+  border: solid 1px green;
+}
+#audio-container{
+  padding: 20px;
+}
+.hidden{
+  display: none;
+}
+.App{
+  margin: 50px;
+}

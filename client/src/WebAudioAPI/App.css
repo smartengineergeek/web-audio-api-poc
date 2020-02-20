@@ -1,0 +1,8 @@
+.app-audio{
+    margin: 50px;
+}
+.peaks-container{
+    width: 100%;
+    border: solid 1px #bbb;
+    padding: 10px;
+}
